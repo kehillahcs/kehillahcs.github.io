@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url("../Brandon-Grotesque-Font-Family/brandon-grotesque-black-58a8a3e824392.otf") format("opentype");
+  }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Brandon Grotesque';
+    text-transform: uppercase;
+}
+
+body {
+    font-family: 'montserrat', sans-serif;
+    padding-top: 2em;
+}
+
+.replit {
+    clear:both;
+    Overflow:hidden;
+}
